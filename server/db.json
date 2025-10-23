@@ -2,7 +2,7 @@
     "usuarios": [
         {
             "id": 1,
-            "nome": "Gregory",
+            "nome": "Snoop",
             "email": "fernandobt481@gmail.com",
             "senha": "5",
             "tipo": "Administrador",
