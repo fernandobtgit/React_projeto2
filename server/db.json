@@ -42,7 +42,7 @@
             "imagemUrl": "https://assets.unileversolutions.com/v1/1207153.jpg"
         }
     ],
-    "categorias":[
+    "categoria":[
         {
             "id": 1,
             "nome": "Saúde e Beleza"
